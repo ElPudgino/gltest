@@ -1,2 +1,4 @@
 GLTest
 *.json
+*.o
+Mandelbrot
